@@ -1,5 +1,4 @@
-# Shopper | Chrome Extension
-Chrome extension that helps u manage ur online orders
+
 
 ## Usage
 
